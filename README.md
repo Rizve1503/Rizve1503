@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning DotNet
 - 💞️ I’m looking to collaborate on Web or WPF projects
-- 📫 How to reach me Contact me on Skype Rizve Ahmad
+- 📫 How to reach me Contact me on Skype [Rizve Ahmad](https://join.skype.com/invite/VJZ9xV4iUcQb)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to eat :)
 
