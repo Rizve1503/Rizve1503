@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rizve Ahmad!
 
-### **.NET Software Engineer | [cite_start]ERP & Business Applications Specialist** [cite: 1, 2]
+### **.NET Software Engineer | Enterprise ERP & MIS Specialist**
 
 [![Email](https://img.shields.io/badge/Email-rizverizu1999%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rizverizu1999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rizve%20Ahmad-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/1503-rizve)
@@ -10,41 +10,52 @@
 
 ## 👨‍💻 Professional Profile
 
-[cite_start]I am a result-oriented **.NET Software Engineer** with approximately **2 years of professional experience** building and maintaining ERP and business-critical applications[cite: 5]. [cite_start]I have a proven ability to gather requirements directly from clients and deliver end-to-end modules to production[cite: 8].
+I am a result-oriented **.NET Software Engineer** with approximately **2 years of professional experience** building and maintaining business-critical applications. I specialize in architecting end-to-end modules, from direct client requirement gathering to production deployment.
 
-* [cite_start]🔭 **Current Role:** Software Engineer at **NanoSoft**, architecting enterprise modules like Gratuity and Online Appraisal[cite: 17, 18, 19, 29].
-* [cite_start]⚡ **Core Expertise:** Strong in **C#**, **.NET 8**, **ASP.NET Core**, **Entity Framework**, and **SQL Server**[cite: 6].
-* [cite_start]🎓 **Education:** B.Sc. in Computer Science & Engineering from Northern University Bangladesh (CGPA: 3.53/4.00)[cite: 50].
-* [cite_start]🌱 **Learning:** Currently exploring Microservices basics and advanced Azure integrations[cite: 12, 13].
+* 🔭 **Current Focus:** Leading the development of complex **MIS and ERP** modules at **NanoSoft**.
+* ⚡ **Core Expertise:** Proficient in **C#**, **.NET 8**, **ASP.NET Core**, **Entity Framework**, and **SQL Server**.
+* 🎓 **Education:** B.Sc. in Computer Science & Engineering from Northern University Bangladesh.
+* 📍 **Location:** North Badda, Dhaka, Bangladesh.
+
+---
+
+## 🏢 Professional Experience (Official Projects)
+
+### **SDF ERP System (Social Development Foundation)**
+*Actively developed and maintained a massive ERP suite split across 4 distinct projects.*
+* **Human Resources & Payroll:** Architected the **Gratuity** module in .NET 8 and enhanced **Payroll**, **Provident Fund**, and **HRM** features.
+* **Core Operations:** Developed modules for **Leave**, **Attendance** (with dashboards), and **Inventory Management**.
+* **Project Management & Appraisal:** Currently leading the development of the **Online Appraisal** module and managing **Project Management** workflows.
+* **Reporting:** Designed and integrated complex **RDLC reports** into the ERP pipeline.
+
+### **DSK MIS (Dushtha Shasthya Kendra)**
+*Backend development for a specialized Management Information System focused on Donor and Donation tracking.*
+* **Data Processing:** Architecting the backend to process information regarding **Donors** and **Donations**.
+* **Impact Tracking:** Building systems to track project expenditures and monitor end results/project outcomes.
 
 ---
 
 ## 🛠️ Technical Tech Stack
 
-### **Backend & Frameworks**
-* [cite_start]**Languages:** C#, .NET Framework 4.x, .NET Core / .NET 8 [cite: 10]
-* [cite_start]**Web Development:** ASP.NET Core, ASP.NET MVC, Blazor, Razor Pages [cite: 10, 12]
-* [cite_start]**Data & ORMs:** SQL Server, MySQL, Entity Framework (EF), ADO.NET, Stored Procedures [cite: 11]
-* [cite_start]**APIs:** RESTful API design, SOAP API, Web API [cite: 12]
+### **Backend & Data**
+* **Languages:** C#, .NET 8, .NET Core, .NET Framework 4.x
+* **Frameworks:** ASP.NET Core, Web API, Blazor, Serenity Framework
+* **Database:** SQL Server, MySQL, Entity Framework (EF), ADO.NET, Stored Procedures
 
-### **Frontend & Desktop**
-* [cite_start]**Technologies:** HTML5, CSS3, JavaScript, Bootstrap [cite: 12, 41]
-* [cite_start]**Specialized Frameworks:** Serenity Framework, WPF [cite: 7, 12]
-
-### **DevOps & Tools**
-* [cite_start]**Cloud:** Microsoft Azure (App Services, Storage) [cite: 13]
-* [cite_start]**CI/CD:** GitHub Actions, Azure Pipelines [cite: 13]
-* [cite_start]**Others:** Git, Visual Studio, RDLC Report Design, Docker (basic) [cite: 15]
+### **Frontend & Tools**
+* **Web/Desktop:** HTML5, CSS3, JavaScript, Razor Pages, WPF
+* **Reporting & Cloud:** RDLC Reports, Microsoft Azure (App Services/Storage)
+* **DevOps:** CI/CD (GitHub Actions, Azure Pipelines), Git, Docker (basic)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Personal Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Inventory Management](https://github.com/Rizve1503/Inventory-Management)** | Production-grade web app using **Clean Architecture**. [cite_start]Features custom field engines and role-based access[cite: 39, 42]. | [cite_start].NET 8, ASP.NET Core MVC, EF Core, SQL Server [cite: 41] |
-| **[UserNova](https://github.com/Rizve1503/UserManagement.WebApp)** | [cite_start]Full-stack user management system with secure authentication and admin panels[cite: 46, 47]. | [cite_start]ASP.NET Core [cite: 46] |
-| **[Mini Account Management](https://github.com/Rizve1503/MiniAccountManagement-System)** | [cite_start]A stored-procedure-driven architecture for robust data handling[cite: 43, 45]. | [cite_start]ASP.NET Core Razor Pages, SQL Server [cite: 45] |
+| **[Inventory Management](https://github.com/Rizve1503/Inventory-Management)** | Production-grade app using **Clean Architecture** with a custom field engine. | .NET 8, ASP.NET Core MVC, EF Core |
+| **[UserNova](https://github.com/Rizve1503/UserManagement.WebApp)** | Full-stack user management system focused on secure authentication. | ASP.NET Core |
+| **[Mini Account Management](https://github.com/Rizve1503/MiniAccountManagement-System)** | Stored-procedure-driven architecture for robust financial data handling. | Razor Pages, SQL Server |
 
 ---
 
@@ -55,20 +66,6 @@
 
 ---
 
-## 💼 Experience Highlights
-
-* **Software Engineer | [cite_start]NanoSoft** (May 2024 – Present): Leading the development of 'Gratuity' and 'Online Appraisal' modules while managing ERP report pipelines using RDLC[cite: 18, 19, 24, 29].
-* **Software Engineer Intern | [cite_start]NanoSoft** (Mar 2024 – May 2024): Contributed to ERP codebase using Serenity and .NET[cite: 32, 33].
-* **Intern | [cite_start]Trust Bank Ltd.** (Feb 2023 – Apr 2023): Developed an Intern Management System using ASP.NET Core and Blazor[cite: 35, 36].
-
----
-
-### 📫 How to reach me:
-* [cite_start]**Location:** North Badda, Dhaka, Bangladesh [cite: 3]
-* [cite_start]**Phone:** 01316967805 [cite: 3]
-* [cite_start]**LinkedIn:** [linkedin.com/in/1503-rizve](https://www.linkedin.com/in/1503-rizve) [cite: 3]
-
----
-<p align="center">
-  [cite_start]<i>"Result-oriented and ready to deliver robust software solutions."</i> [cite: 5]
-</p>
+### 📫 Let's Connect:
+* **LinkedIn:** [linkedin.com/in/1503-rizve](https://www.linkedin.com/in/1503-rizve)
+* **Phone:** 01316967805
